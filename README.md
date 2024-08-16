@@ -9,12 +9,12 @@ Hi there, I'm Miguel 👋🏾
 - **Eager to contribute** to innovative projects and drive impactful change in the tech industry.
 - **Actively looking for opportunities** to grow and collaborate with others!
 
-  Let's Connect!
-  [LinkedIn](https://www.linkedin.com/in/miguelv-dev/)
-  [Hashnode](https://miguel4prez.hashnode.dev/)
-  [Email](miguelvasquez2201)
+## Let's Connect!
 
-**Tech Stack**
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguelv-dev/)
+- ![Hashnode](https://img.shields.io/badge/Hashnode-%231F2D3D?style=flat-square&logo=hashnode&logoColor=white)
+
+## Tech Stack
 - [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/)
 - [![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 - [![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-336791?style=flat-square&logo=sqlalchemy&logoColor=white)](https://www.sqlalchemy.org/)
