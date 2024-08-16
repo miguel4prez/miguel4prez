@@ -12,7 +12,7 @@ Hi there, I'm Miguel 👋🏾
 ## Let's Connect!
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguelv-dev/)
-- ![Hashnode](https://img.shields.io/badge/Hashnode-%231F2D3D?style=flat-square&logo=hashnode&logoColor=white)
+- [![Hashnode](https://img.shields.io/badge/Hashnode-%231F2D3D?style=flat-square&logo=hashnode&logoColor=white)](https://miguel4prez.hashnode.dev/)
 
 ## Tech Stack
 - [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/)
