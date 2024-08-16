@@ -18,7 +18,7 @@ Hi there, I'm Miguel 👋🏾
 
 <!-- Hashnode -->
 <a href="https://miguel4prez.hashnode.dev/" style="margin-right: 15px;">
-  <img align="left" src="https://img.shields.io/badge/Hashnode-%231F2D3D?style=flat-square&logo=hashnode&logoColor=white" alt="Hashnode" width="100"/>
+  <img src="https://img.shields.io/badge/Hashnode-%231F2D3D?style=flat-square&logo=hashnode&logoColor=white" alt="Hashnode" width="100"/>
 </a>
 
 ## Tech Stack
