@@ -3,7 +3,6 @@ Hi there, I'm Miguel 👋🏾
 **Full Stack Engineer, Music Producer/Engineer**
 
 - 🎓 **Graduated from SUNY New Paltz** with a B.S. degree in Audio Engineering.
-- 👨‍💻 **Recently completed** a rigorous Software Engineering bootcamp at Flatiron School.
 - 🚀 Transitioned to Software Engineering to explore the creative potential of coding, building on a foundation in audio engineering.
 - 🌟 **Proficient in Full Stack development technologies** 
 - **Eager to contribute** to innovative projects and drive impactful change in the tech industry.
